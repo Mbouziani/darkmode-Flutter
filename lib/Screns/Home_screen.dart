@@ -1,4 +1,3 @@
-import 'package:darkmode/Strings/Colors.dart';
 import 'package:darkmode/provider/Theme_Provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
